@@ -1,6 +1,6 @@
 package firsthibernateproj;
 
-/**** @author abhishek*/
+/*@author abhishek*/
 public class FirstHibernateProj {
     public static void main(String[] args) {
         
